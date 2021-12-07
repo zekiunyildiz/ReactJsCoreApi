@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "daopOOqcxmp5Bo/XeiKWSLzcK7/dyNa0zW9+g/k4uflby5cr1VD5YoTb4DBlz1dmXXlsh4fjgRkSzkXNKMp65w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zekiu\\Desktop\\Project\\api\\WebApplicationProject\\WebApplicationProject\\WebApplicationProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zekiu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
