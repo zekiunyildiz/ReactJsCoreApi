@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "daopOOqcxmp5Bo/XeiKWSLzcK7/dyNa0zW9+g/k4uflby5cr1VD5YoTb4DBlz1dmXXlsh4fjgRkSzkXNKMp65w==",
+  "dgSpecHash": "bav8AG48dfJzgdlMwcJB9spNTlDyU9mdcMRF/hzrJVqm0ZK1WU+91eXeGY8cwhg2/kT+N4E5sKacCKDKL6+jKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zekiu\\Desktop\\Project\\api\\WebApplicationProject\\WebApplicationProject\\WebApplicationProject.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zekiu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+    "C:\\Users\\zekiu\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.16\\microsoft.aspnetcore.jsonpatch.3.1.16.nupkg.sha512",
+    "C:\\Users\\zekiu\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.16\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.16.nupkg.sha512",
+    "C:\\Users\\zekiu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\zekiu\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\zekiu\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }
